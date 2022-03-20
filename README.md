@@ -1,7 +1,7 @@
 ### Hi there 👋 This is Bhuvanesh!!
 ### Full Stack Developer
-🔭 I’m currently working on a general purpose chatBot using deeep learning practices
-🌱 I’m currently learning Tensorflow
+- 🔭 I’m currently working on a general purpose chatBot using deeep learning practices
+- 🌱 I’m currently learning Tensorflow
 
 
 <!--
